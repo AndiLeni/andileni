@@ -41,28 +41,20 @@ Dazu bieten sich folgende Wege an:
 
 <div align="center">  
 <img style="margin: 10px" src="./assets/redaxo.png" height="80px"  />
-<img style="margin: 10px" src="./assets/php.png" height="80px" />
-<img style="margin: 10px" src="./assets/mysql.png" height="80px" />
-<img style="margin: 10px" src="./assets/python.png" height="80px" />
-<img style="margin: 10px" src="./assets/js.png" height="80px" />
-<img style="margin: 10px" src="./assets/linux.png" height="80px" />
-<img style="margin: 10px" src="./assets/html.png" height="80px" />
+<br>
+<img style="margin: 10px" src="./assets/php.png" height="50px" />
+<img style="margin: 10px" src="./assets/mysql.png" height="50px" />
+<img style="margin: 10px" src="./assets/python.png" height="50px" />
+<img style="margin: 10px" src="./assets/js.png" height="50px" />
+<img style="margin: 10px" src="./assets/linux.png" height="50px" />
+<img style="margin: 10px" src="./assets/html.png" height="50px" />
 </div>
 
 <br/>
 
 ## Github Stats
 
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=andileni&show_icons=true&hide_border=false&include_all_commits=false&count_private=true&disable_animations=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andileni&layout=compact&disable_animations=true" align="left" style="width: 100%" />
-
-</td></tr></table>
-
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=andileni&show_icons=true&hide_border=false&include_all_commits=false&count_private=true&disable_animations=true" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andileni&layout=compact&disable_animations=true" style="width: 100%" />
 
 ![](https://hit.yhype.me/github/profile?user_id=13385771)
