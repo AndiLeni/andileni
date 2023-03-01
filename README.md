@@ -50,11 +50,9 @@ Dazu bieten sich folgende Wege an:
 <img style="margin: 10px" src="./assets/html.png" height="50px" />
 </div>
 
-<br/>
-
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=andileni&show_icons=true&hide_border=false&include_all_commits=false&count_private=true&disable_animations=true" style="width: 100%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andileni&layout=compact&disable_animations=true" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=andileni&show_icons=true&hide_border=false&include_all_commits=false&count_private=true&disable_animations=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andileni&layout=compact&disable_animations=true" />
 
 ![](https://hit.yhype.me/github/profile?user_id=13385771)
