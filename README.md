@@ -3,16 +3,16 @@
 <hr>
 
 <a href="https://lenhardt.eu" target="_blank">
-<img src=https://img.shields.io/badge/lenhardt.eu-%2324292e.svg?&style=for-the-badge&logoColor=black alt=website style="margin-top: 10px; margin-bottom: 5px;" />
+<img src="https://img.shields.io/static/v1?style=for-the-badge&label=www&logo=&logoColor=&logoWidth=&labelColor=%233B3B3B&color=%230069B0&message=lenhardt.eu" alt=website style="margin-top: 10px; margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/andileni" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-top: 10px; margin-bottom: 5px;" />
+<img src="https://img.shields.io/static/v1?style=for-the-badge&label=&logo=github&logoColor=&logoWidth=&labelColor=&color=%23181717&message=github" alt=github style="margin-top: 10px; margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/andreas-lenhardt/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-top: 10px; margin-bottom: 5px;" />
+<img src="https://img.shields.io/static/v1?style=for-the-badge&label=&logo=linkedin&logoColor=&logoWidth=&labelColor=&color=%230A66C2&message=linkedin" alt=linkedin style="margin-top: 10px; margin-bottom: 5px;" />
 </a>
 <a href="https://www.xing.com/profile/Andreas_Lenhardt5" target="_blank">
-<img src=https://img.shields.io/badge/Xing-%23006567.svg?&style=for-the-badge&logo=xing&logoColor=white alt=xing style="margin-top: 10px; margin-bottom: 5px;" />
+<img src="https://img.shields.io/static/v1?style=for-the-badge&label=&logo=xing&logoColor=&logoWidth=&labelColor=&color=%23006567&message=xing" alt=xing style="margin-top: 10px; margin-bottom: 5px;" />
 </a>
   
 <hr>
